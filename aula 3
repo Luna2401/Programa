@@ -52,3 +52,6 @@ A sintaxe de Java é mais estruturada do que a de Python, mas mais simples do qu
 Java é uma linguagem de tipagem estática, como C++. Isso significa que os tipos das variáveis devem ser declarados explicitamente e verificados em tempo de compilação.
 Java é compilada para bytecode, que é então interpretado ou compilado just-in-time (JIT) pela Java Virtual Machine (JVM). Isso permite que o código Java seja portável e execute em qualquer plataforma que tenha uma JVM.
 Java é amplamente utilizado no desenvolvimento de aplicações empresariais, aplicativos Android, e sistemas distribuídos. É uma escolha popular para ambientes corporativos e aplicações que requerem portabilidade e manutenção de longo prazo.
+
+EXERCÍCIO USANDO PYTHON
+https://www.mycompiler.io/view/GvJRSmgo7Nk
